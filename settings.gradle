@@ -1,0 +1,3 @@
+include ':BasicSDK'
+include ':app'
+rootProject.name = "MVVMDemo"
